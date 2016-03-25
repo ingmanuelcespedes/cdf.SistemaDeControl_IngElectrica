@@ -11,5 +11,7 @@ package Bean;
  * @author Manuel Cespedes
  */
 public class Holamundo {
-    
+    public  void leer(){
+        
+    }
 }

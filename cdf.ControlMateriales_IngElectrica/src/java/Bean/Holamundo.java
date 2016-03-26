@@ -12,6 +12,6 @@ package Bean;
  */
 public class Holamundo {
     public  void leer(){
-        System.out.println("Iniciando el Proyecto de Gestion y Administracion de los Materiales de Una Empresa.. ");
+        System.out.println("Iniciando el Proyecto de Gestion y Administracion de los Materiales de Una Empresa.. , LO ESTOY EDITANDO DESDE GITHUB");
     }
 }

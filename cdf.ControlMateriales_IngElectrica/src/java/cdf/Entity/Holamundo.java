@@ -1,5 +1,7 @@
 package cdf.Entity;
 
+import java.util.StringTokenizer;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -12,6 +14,10 @@ package cdf.Entity;
  */
 public class Holamundo {
     public  void leer(){
-        System.out.println("Iniciando el Proyecto de Gestion y Administracion de los Materiales de Una Empresa.. , LO ESTOY EDITANDO DESDE GITHUB");
+        System.out.println("Iniciando el Proyecto de Gestion y Administracion de "
+                + "los Materiales de Una Empresa.. , LO ESTOY EDITANDO DESDE GITHUB"
+                + " Agregando Mas contenido , dia a dia ");
+        
+        StringTokenizer stringT= new StringTokenizer("delimitador");
     }
 }
